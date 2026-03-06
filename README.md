@@ -27,6 +27,10 @@
 <a href="https://wa.me/201094413272">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" height="35" />
 </a>
+&nbsp;
+<a href="https://ziad-tarek-elatawy.github.io/portfolio/#home">
+  <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=A855F7" height="35" />
+</a>
 
 <br><br>
 
@@ -40,7 +44,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </picture>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Awal/Tarikul-Islam-Awal/main/assets/images/Hi.gif" width="30"> &nbsp;About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> &nbsp;About Me
 
 ```python
 class ZiadTarek:
