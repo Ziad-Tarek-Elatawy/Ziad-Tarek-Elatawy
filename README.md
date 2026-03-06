@@ -120,7 +120,7 @@ class ZiadTarek:
 
 ### ☁️ Deployment, Cloud & MLOps
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgMThjLTQuNDEgMC04LTMuNTktOC04czMuNTktOCA4LTggOCAzLjU5IDggOC0zLjU5IDgtOCA4eiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
@@ -313,14 +313,14 @@ Digital Egypt Pioneers Initiative
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ziad-Tarek-Elatawy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9&ring_color=A855F7" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ziad-Tarek-Elatawy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9&ring_color=A855F7" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ziad-Tarek-Elatawy&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" width="49%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad-Tarek-Elatawy&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" width="35%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ziad-Tarek-Elatawy&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" width="35%" />
 </div>
 
 <br>
