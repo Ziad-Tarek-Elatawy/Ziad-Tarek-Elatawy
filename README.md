@@ -323,16 +323,7 @@ Digital Egypt Pioneers Initiative
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ziad-Tarek-Elatawy&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&area=true&hide_border=true" width="95%" />
 </div>
 
-<br>
 
-<!-- ═══════ Snake Contribution Animation ═══════ -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ziad-Tarek-Elatawy/Ziad-Tarek-Elatawy/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ziad-Tarek-Elatawy/Ziad-Tarek-Elatawy/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Ziad-Tarek-Elatawy/Ziad-Tarek-Elatawy/output/github-snake.svg" width="100%" />
-  </picture>
-</div>
 
 <!-- ═══════ Animated Divider ═══════ -->
 <picture>
