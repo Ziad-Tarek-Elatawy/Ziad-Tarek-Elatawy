@@ -1,21 +1,13 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ██╗  ██╗███████╗ █████╗ ██████╗ ███████╗██████╗               -->
-<!-- ██║  ██║██╔════╝██╔══██╗██╔══██╗██╔════╝██╔══██╗              -->
-<!-- ███████║█████╗  ███████║██║  ██║█████╗  ██████╔╝              -->
-<!-- ██╔══██║██╔══╝  ██╔══██║██║  ██║██╔══╝  ██╔══██╗              -->
-<!-- ██║  ██║███████╗██║  ██║██████╔╝███████╗██║  ██║              -->
-<!-- ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <!-- Animated Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Ziad%20Tarek%20Elatawy&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=AI%20%26%20Data%20Science%20Engineer%20%E2%80%A2%20GenAI%20Architect%20%E2%80%A2%20Arabic%20NLP%20Specialist&descSize=16&descAlignY=52&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Ziad%20Tarek&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=AI%20Engineer%20%E2%80%A2%20GenAI%20%E2%80%A2%20Multi-Agent%20Systems%20%E2%80%A2%20Arabic%20NLP&descSize=16&descAlignY=52&descAlign=50" width="100%" />
 
 <br>
 
 <!-- Animated Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&random=false&width=600&height=45&lines=%E2%9C%A8+Building+Scalable+GenAI+Architectures;%F0%9F%A4%96+Multi-Agent+Systems+Orchestrator;%F0%9F%8C%8D+Pioneering+Arabic+NLP+Innovation;%F0%9F%9A%80+From+Raw+Data+to+Intelligent+Decisions" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&random=false&width=650&height=45&lines=%E2%9C%A8+Building+Scalable+GenAI+Architectures;%F0%9F%A4%96+Multi-Agent+Systems+Orchestrator;%F0%9F%8C%8D+Pioneering+Arabic+NLP+Innovation;%F0%9F%9A%80+From+Raw+Data+to+Intelligent+Decisions;%F0%9F%92%BC+Open+for+Global+Opportunities+%26+Collaborations" alt="Typing SVG" /></a>
 
 <br><br>
 
@@ -35,10 +27,6 @@
 <a href="https://wa.me/201094413272">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" height="35" />
 </a>
-&nbsp;
-<a href="tel:+201094413272">
-  <img src="https://img.shields.io/badge/Call_Me-6366F1?style=for-the-badge&logo=phone&logoColor=white&labelColor=6366F1" height="35" />
-</a>
 
 <br><br>
 
@@ -56,54 +44,35 @@
 
 ```python
 class ZiadTarek:
-    """AI & Data Science Engineer — Architecting Intelligent Ecosystems"""
+    """AI Engineer — Architecting Intelligent Ecosystems"""
 
     def __init__(self):
-        self.name         = "Ziad Tarek Elatawy"
-        self.role         = "AI & Data Science Engineer"
+        self.name         = "Ziad Tarek"
+        self.role         = ["AI Engineer", "Multi-Agent Systems Engineer", "Freelance AI Consultant"]
         self.location     = "Cairo, Egypt 🇪🇬"
         self.education    = "B.Sc. Information Systems — Damietta University (2023–2027)"
-        self.focus        = ["NLP", "Generative AI", "Arabic NLP"]
-        self.current      = "DEPI — AI & Data Science Trainee"
+        self.training     = "DEPI — AI & Data Science Trainee"
         self.leadership   = "Team Lead | Managing 5+ member technical teams"
 
+    @property
+    def expertise(self):
+        return {
+            "core"       : ["NLP", "Generative AI", "Arabic NLP"],
+            "frameworks" : ["LangChain", "LangGraph", "CrewAI", "HuggingFace"],
+            "systems"    : ["RAG Pipelines", "Multi-Agent Systems", "Fine-tuning"],
+            "deployment" : ["FastAPI", "Docker", "AWS", "Azure"],
+        }
+
     def vision(self):
-        return "I don't just build models; I architect ecosystems."
+        return "I don't just build models — I architect production-ready AI ecosystems."
 
-    def mission(self):
-        return (
-            "Transforming raw data into intelligent, "
-            "production-ready AI solutions that deliver "
-            "real, measurable business value."
-        )
+    def available_for(self):
+        return [
+            "🏢 Full-time roles at global tech companies",
+            "🤝 Freelance AI & NLP consulting projects",
+            "🔬 Research collaborations in Arabic NLP",
+        ]
 ```
-
-<!-- ═══════ Animated Divider ═══════ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</picture>
-
-## 🎯 &nbsp;What I Bring to the Table
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 The Vision
-My core expertise lies in **NLP** and **Large Language Models**, with a deep commitment to mastering **Arabic NLP** — a niche I believe is the next frontier for AI in the MENA region. Whether it's building **advanced RAG pipelines** or orchestrating **Multi-Agent Systems**, my goal is always delivering **real, measurable value**.
-
-</td>
-<td width="50%" valign="top">
-
-### 👥 Leading with Purpose
-Great AI requires more than just code — it requires **leadership**. With experience leading teams of **5+ members** on complex projects, I bridge the gap between technical teams and business requirements. I thrive on **delegating tasks**, aligning technical goals with project vision, and delivering **high-quality, data-driven insights**.
-
-</td>
-</tr>
-</table>
-</div>
 
 <!-- ═══════ Animated Divider ═══════ -->
 <picture>
@@ -134,7 +103,7 @@ Great AI requires more than just code — it requires **leadership**. With exper
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/NLP-059669?style=for-the-badge&logo=spacy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arabic_NLP_Specialist-14B8A6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arabic_NLP-14B8A6?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Computer_Vision-7C3AED?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
@@ -173,11 +142,21 @@ Great AI requires more than just code — it requires **leadership**. With exper
 
 </div>
 
+<!-- ═══════ Animated Divider ═══════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</picture>
 
-
-## 💡 &nbsp;Services I Offer
+## 💼 &nbsp;How I Create Value
 
 <div align="center">
+
+> Whether you're a **global enterprise** looking for a full-time AI engineer,
+> or a **business** seeking expert freelance consulting — I deliver production-grade results.
+
+<br>
+
 <table>
 <tr>
 <td align="center" width="33%">
@@ -185,15 +164,15 @@ Great AI requires more than just code — it requires **leadership**. With exper
 ### 🤖
 **Custom AI & LLM Solutions**
 
-Advanced RAG pipelines, fine-tuning LLMs, and Multi-Agent systems (CrewAI/LangGraph) tailored to your needs
+Advanced RAG pipelines, fine-tuned LLMs, and Multi-Agent systems (CrewAI/LangGraph) — designed and deployed end-to-end
 
 </td>
 <td align="center" width="33%">
 
 ### 🗣️
-**Machine Learning & NLP**
+**NLP & Arabic AI**
 
-Highly accurate ML/DL models for NLP, text analytics, and specialized Arabic NLP tasks
+State-of-the-art NLP models with specialized expertise in **Arabic language processing** — a high-demand, underserved niche
 
 </td>
 <td align="center" width="33%">
@@ -201,7 +180,7 @@ Highly accurate ML/DL models for NLP, text analytics, and specialized Arabic NLP
 ### 📊
 **Data Engineering & Analytics**
 
-Robust data pipelines and complex analytics with Python & Pandas for data-driven decisions
+Robust data pipelines and complex analytics with Python & Pandas for actionable, data-driven business decisions
 
 </td>
 </tr>
@@ -211,7 +190,7 @@ Robust data pipelines and complex analytics with Python & Pandas for data-driven
 ### ⚡
 **Workflow Automation**
 
-Automating complex business workflows and system integrations using **n8n** for operational efficiency
+Automating complex business workflows and system integrations using **n8n** for maximum operational efficiency
 
 </td>
 <td align="center" width="33%">
@@ -219,15 +198,15 @@ Automating complex business workflows and system integrations using **n8n** for 
 ### 🚀
 **AI Deployment & MLOps**
 
-From prototypes to production-ready RESTful APIs using **FastAPI, Docker & AWS**
+From prototype to production — scalable RESTful APIs using **FastAPI, Docker & AWS/Azure**
 
 </td>
 <td align="center" width="33%">
 
 ### 🏗️
-**System Architecture**
+**System Architecture & Leadership**
 
-Designing scalable AI architectures, requirements analysis, and full system design with UML
+Designing scalable AI architectures and leading cross-functional teams to deliver on time and on target
 
 </td>
 </tr>
@@ -240,24 +219,11 @@ Designing scalable AI architectures, requirements analysis, and full system desi
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </picture>
 
-## 🏗️ &nbsp;Featured Projects
+## 🚀 &nbsp;Featured Projects
 
 <div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🧠 SmartResolve AI
-AI-powered platform using **Advanced NLP** to automatically classify, prioritize, and route complaints & suggestions via sentiment analysis and topic detection.
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-059669?style=flat-square&logo=spacy&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-8B5CF6?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sentiment_Analysis-EC4899?style=flat-square" />
-</p>
-
-</td>
 <td width="50%" valign="top">
 
 ### 📊 Ford GoBike Interactive Dashboard
@@ -270,20 +236,9 @@ End-to-end interactive dashboard analyzing urban mobility data using **Plotly & 
   <img src="https://img.shields.io/badge/EDA-FF6B6B?style=flat-square" />
 </p>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 😷 Face Mask Detection
-Automated surveillance system using **CNNs** to detect face masks in real-time video feeds for safety compliance monitoring.
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/CNN-7C3AED?style=flat-square" />
-</p>
+<a href="https://github.com/Ziad-Tarek-Elatawy/Interactive-Dashboard">
+  <img src="https://img.shields.io/badge/🔗_View_Repository-A855F7?style=for-the-badge&logoColor=white" />
+</a>
 
 </td>
 <td width="50%" valign="top">
@@ -298,6 +253,45 @@ Desktop application for managing hospital departments, staff, and patients with 
   <img src="https://img.shields.io/badge/CLI-4A5568?style=flat-square" />
 </p>
 
+<a href="https://github.com/Ziad-Tarek-Elatawy/Hospital-System">
+  <img src="https://img.shields.io/badge/🔗_View_Repository-A855F7?style=for-the-badge&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+</div>
+
+<!-- ═══════ Animated Divider ═══════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</picture>
+
+## 🏅 &nbsp;Certifications & Education
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🎓 Education
+
+🏛️ **B.Sc. Information Systems**
+Damietta University (2023 – 2027)
+
+</td>
+<td align="center" width="50%">
+
+### 📜 Training & Programs
+
+🏆 **DEPI — AI & Data Science Trainee**
+Digital Egypt Pioneers Initiative
+
+<!-- Add your certifications here as you earn them: -->
+<!-- 🏆 **Certification Name** -->
+<!-- Issuing Organization — Year -->
+
 </td>
 </tr>
 </table>
@@ -310,6 +304,13 @@ Desktop application for managing hospital departments, staff, and patients with 
 </picture>
 
 ## 📈 &nbsp;GitHub Analytics
+
+<!-- ═══════ GitHub Trophies ═══════ -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ziad-Tarek-Elatawy&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" />
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ziad-Tarek-Elatawy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9&ring_color=A855F7" width="49%" />
@@ -328,6 +329,17 @@ Desktop application for managing hospital departments, staff, and patients with 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ziad-Tarek-Elatawy&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&area=true&hide_border=true" width="95%" />
 </div>
 
+<br>
+
+<!-- ═══════ Snake Contribution Animation ═══════ -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ziad-Tarek-Elatawy/Ziad-Tarek-Elatawy/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ziad-Tarek-Elatawy/Ziad-Tarek-Elatawy/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Ziad-Tarek-Elatawy/Ziad-Tarek-Elatawy/output/github-snake.svg" width="100%" />
+  </picture>
+</div>
+
 <!-- ═══════ Animated Divider ═══════ -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
@@ -338,14 +350,14 @@ Desktop application for managing hospital departments, staff, and patients with 
 
 <div align="center">
 
-> *"Great AI requires more than just code; it requires leadership."*
-> — **Ziad Tarek**
+> *"The best way to predict the future is to create it."*
+> — **Peter Drucker**
 
 <br>
 
-| 📧 Email | 📱 Phone | 📍 Location |
+| 📧 Email | 📍 Location | 💼 Status |
 | :---: | :---: | :---: |
-| [eng.ziadtarek1@gmail.com](mailto:eng.ziadtarek1@gmail.com) | [+20 109 441 3272](https://wa.me/201094413272) | Cairo, Egypt 🇪🇬 |
+| [eng.ziadtarek1@gmail.com](mailto:eng.ziadtarek1@gmail.com) | Cairo, Egypt 🇪🇬 | ✅ Open for Opportunities |
 
 <br>
 
