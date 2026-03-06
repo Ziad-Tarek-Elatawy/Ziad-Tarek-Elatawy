@@ -317,13 +317,7 @@ Digital Egypt Pioneers Initiative
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ziad-Tarek-Elatawy&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" width="49%" />
 </div>
 
-<br>
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ziad-Tarek-Elatawy&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" width="35%" />
-</div>
-
-<br>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ziad-Tarek-Elatawy&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&area=true&hide_border=true" width="95%" />
