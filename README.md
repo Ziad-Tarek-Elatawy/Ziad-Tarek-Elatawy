@@ -263,6 +263,28 @@ Desktop application for managing hospital departments, staff, and patients with 
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 Boston Housing Predictor
+End-to-end Machine Learning web app to predict Boston housing prices using a fine-tuned **Decision Tree Regressor** and a lightning-fast **FastAPI** REST API.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6B6B?style=flat-square" />
+</p>
+
+<a href="https://github.com/Ziad-Tarek-Elatawy/Boston-Housing-Predictor">
+  <img src="https://img.shields.io/badge/🔗_View_Repository-A855F7?style=for-the-badge&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+<!-- Future Project Placeholder -->
+</td>
+</tr>
 </table>
 </div>
 
