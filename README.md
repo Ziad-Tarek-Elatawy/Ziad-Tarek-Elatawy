@@ -282,7 +282,19 @@ End-to-end Machine Learning web app to predict Boston housing prices using a fin
 
 </td>
 <td width="50%" valign="top">
-<!-- Future Project Placeholder -->
+### 🎁 CharityML Donor Prediction
+An end-to-end ML solution using **AdaBoost** to predict potential donors, integrated with a **FastAPI** backend and a premium dashboard for batch campaign evaluations and dynamic feature insights.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6B6B?style=flat-square" />
+</p>
+
+<a href="https://github.com/Ziad-Tarek-Elatawy/CharityML-Donor-Prediction">
+  <img src="https://img.shields.io/badge/🔗_View_Repository-A855F7?style=for-the-badge&logoColor=white" />
+</a>
 </td>
 </tr>
 </table>
