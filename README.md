@@ -247,54 +247,20 @@ End-to-end interactive dashboard analyzing urban mobility data using **Plotly & 
 </td>
 <td width="50%" valign="top">
 
-### 🏥 Hospital Management System
-Desktop application for managing hospital departments, staff, and patients with **OOP design patterns** and JSON data persistence.
+### 🤖 AI Customer Support Chatbot
+A production-ready customer support system powered by **Retrieval-Augmented Generation (RAG)**. Features a FastAPI backend, real-time streaming, dynamic knowledge base indexing, and a React dashboard for live analytics.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOP-10B981?style=flat-square" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/CLI-4A5568?style=flat-square" />
-</p>
-
-<a href="https://github.com/Ziad-Tarek-Elatawy/Hospital-System">
-  <img src="https://img.shields.io/badge/🔗_View_Repository-A855F7?style=for-the-badge&logoColor=white" />
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏠 Boston Housing Predictor
-End-to-end Machine Learning web app to predict Boston housing prices using a fine-tuned **Decision Tree Regressor** and a lightning-fast **FastAPI** REST API.
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
 </p>
 
-<a href="https://github.com/Ziad-Tarek-Elatawy/Boston-Housing-Predictor">
+<a href="https://github.com/Ziad-Tarek-Elatawy/AI-Customer-Support-Chatbot">
   <img src="https://img.shields.io/badge/🔗_View_Repository-A855F7?style=for-the-badge&logoColor=white" />
 </a>
 
-</td>
-<td width="50%" valign="top">
-### 🎁 CharityML Donor Prediction
-An end-to-end ML solution using **AdaBoost** to predict potential donors, integrated with a **FastAPI** backend and a premium dashboard for batch campaign evaluations and dynamic feature insights.
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6B6B?style=flat-square" />
-</p>
-
-<a href="https://github.com/Ziad-Tarek-Elatawy/CharityML-Donor-Prediction">
-  <img src="https://img.shields.io/badge/🔗_View_Repository-A855F7?style=for-the-badge&logoColor=white" />
-</a>
 </td>
 </tr>
 </table>
