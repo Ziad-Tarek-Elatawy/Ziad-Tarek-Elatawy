@@ -56,7 +56,7 @@ class ZiadTarek:
         self.location     = "Cairo, Egypt 🇪🇬"
         self.education    = "B.Sc. Information Systems — Damietta University (2023–2027)"
         self.training     = "DEPI — AI & Data Science Trainee"
-        self.leadership   = "Team Lead | Managing 5+ member technical teams"
+        self.leadership   = "Technical lead in academic and freelance project teams"
 
     @property
     def expertise(self):
@@ -184,7 +184,7 @@ State-of-the-art NLP models with specialized expertise in **Arabic language proc
 ### 📊
 **Data Engineering & Analytics**
 
-Robust data pipelines and complex analytics with Python & Pandas for actionable, data-driven business decisions
+Production-grade data pipelines and analytics with Python & Pandas for actionable, data-driven business decisions
 
 </td>
 </tr>
@@ -230,6 +230,42 @@ Designing scalable AI architectures and leading cross-functional teams to delive
 <tr>
 <td width="50%" valign="top">
 
+### 🤖 AI Customer Support Chatbot
+A production-ready customer support system powered by **Retrieval-Augmented Generation (RAG)**. Features a FastAPI backend, real-time streaming, dynamic knowledge base indexing, and a React dashboard for live analytics.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+</p>
+
+<a href="https://github.com/Ziad-Tarek-Elatawy/AI-Customer-Support-Chatbot">
+  <img src="https://img.shields.io/badge/🔗_View_Repository-A855F7?style=for-the-badge&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🗣️ Arabic Dialect Sentiment Analyzer
+An NLP pipeline for Arabic social media text handling dialect identification, sentiment analysis, and named entity recognition. Fine-tuned AraBERT using LoRA on Egyptian dialect data, served via a FastAPI inference endpoint.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/AraBERT-14B8A6?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/LoRA-EC4899?style=flat-square&logoColor=white" />
+</p>
+
+<a href="https://github.com/Ziad-Tarek-Elatawy">
+  <img src="https://img.shields.io/badge/🔗_View_Repository-A855F7?style=for-the-badge&logoColor=white" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 📊 Ford GoBike Interactive Dashboard
 End-to-end interactive dashboard analyzing urban mobility data using **Plotly & Dash**, transforming raw trip data into a dynamic web application.
 
@@ -246,21 +282,6 @@ End-to-end interactive dashboard analyzing urban mobility data using **Plotly & 
 
 </td>
 <td width="50%" valign="top">
-
-### 🤖 AI Customer Support Chatbot
-A production-ready customer support system powered by **Retrieval-Augmented Generation (RAG)**. Features a FastAPI backend, real-time streaming, dynamic knowledge base indexing, and a React dashboard for live analytics.
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-</p>
-
-<a href="https://github.com/Ziad-Tarek-Elatawy/AI-Customer-Support-Chatbot">
-  <img src="https://img.shields.io/badge/🔗_View_Repository-A855F7?style=for-the-badge&logoColor=white" />
-</a>
-
 </td>
 </tr>
 </table>
